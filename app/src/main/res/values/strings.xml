@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="default_time">00</string>
+    <string name="default_time_end">:00</string>
+    <string name="button_title_start">Start</string>
+    <string name="button_title_stop">Stop</string>
+    <string name="button_title_reset">Reset</string>
+    <string name="hours">Hour</string>
+    <string name="minutes">Minute</string>
+    <string name="seconds">Sec</string>
+    <string name="milliseconds">Ms</string>
+</resources>
